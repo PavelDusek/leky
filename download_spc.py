@@ -6,7 +6,7 @@ import time
 
 atc_groups = {
         'A': 38, #38 pages on SUKL website
-        'B': 33, #38 pages on SUKL website
+        'B': 33, #33 pages on SUKL website
         'C': 67, #67 pages on SUKL website
         }
 
